@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-Author: LD
+# Author: LD
 import itertools as itl
 import numpy as np
 import pandas as pd
